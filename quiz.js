@@ -1,4 +1,4 @@
-const quizQuestions = [ 
+const quizQuestions = [  
     "What is a demon's weakness", 
     "Who is considered the god and the creator of all demons", 
     "Who is the Love Hashira", 
