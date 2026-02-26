@@ -1,4 +1,4 @@
-const quizQuestions = [  
+const quizQuestions = [   
     "What is a demon's weakness", 
     "Who is considered the god and the creator of all demons", 
     "Who is the Love Hashira", 
@@ -30,5 +30,6 @@ for (let i = 0; i < quizQuestions.length; i++) {
     alert("Wrong! Correct answer is: " + answers[i]);
   }
 }
+
 
 alert("Quiz Completed! Your score is: " + score + "/" + quizQuestions.length);
