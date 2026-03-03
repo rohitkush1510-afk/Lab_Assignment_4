@@ -1,6 +1,6 @@
 const quizQuestions = [   
     "What is a demon's weakness", 
-    "Who is considered the god and the creator of all demons", 
+    "Who is considered the god and the creator of  all demons", 
     "Who is the Love Hashira", 
     "Which of the following is a fire Hashira",
     "What is the special type of sword used to kill demons",
